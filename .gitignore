@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# PyTorch / TensorFlow / ML artifacts
+*.pt
+*.pth
+*.h5
+model.tar.gz
+
+# AWS / SageMaker specific
+*.log
+*.out
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Output directories
+output/
+results/
+screenshots/
